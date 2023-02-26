@@ -10,7 +10,7 @@ edge [fontname="helvetica"] ;
 2 -> 3 ;
 4 [label="sepal length (cm) <= 4.95\nentropy = 0.172\nsamples = 39\nvalue = [0, 38, 1]"] ;
 3 -> 4 ;
-5 [label="sepal width (cm) <= 2.45\nentropy = 1.0\nsamples = 2\nvalue = [0, 1, 1]"] ;
+5 [label="petal length (cm) <= 3.9\nentropy = 1.0\nsamples = 2\nvalue = [0, 1, 1]"] ;
 4 -> 5 ;
 6 [label="entropy = 0.0\nsamples = 1\nvalue = [0, 1, 0]"] ;
 5 -> 6 ;
